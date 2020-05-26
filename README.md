@@ -3,24 +3,37 @@
 
 ## Simple BlogApp running on Node.js and Express Framework
 
-### In this Web Application we can add a new articles, we edits a Blog Content, Titles and Images 
+### In this Web Application we can add a new articles, we edits a Blog Content, Titles and Images.
 
  
 
 
-![](Blog_app/Blog/7.PNG)
+![](Blog/7.PNG)
 
-![](2.PNG)
+![](Blog/7.PNG)
 
-![](3.PNG)
+![](Blog/8.PNG)
 
-![](4.PNG)
+![](Blog/9.PNG)
 
-![](5.PNG)
-
-![](6.PNG)
+![](Blog/10.PNG)
 
 
+
+# Built with: 
+
+## Backend
+### Javascript
+### Node.js
+### Express
+### MongoDB
+
+## Frontend
+### Bootstrap
+### Semantic UI
+
+## IDE
+### Visual Studio Code
 
 
 
